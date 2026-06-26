@@ -7,6 +7,7 @@ Leetcode connected with git helps to track down my progress and submission and a
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vivek-9304/LeetCode_Progress/tree/master/0001-two-sum) |
+| [0066-plus-one](https://github.com/vivek-9304/LeetCode_Progress/tree/master/0066-plus-one) |
 ## Hash Table
 |  |
 | ------- |
@@ -19,6 +20,7 @@ Leetcode connected with git helps to track down my progress and submission and a
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/vivek-9304/LeetCode_Progress/tree/master/0002-add-two-numbers) |
+| [0066-plus-one](https://github.com/vivek-9304/LeetCode_Progress/tree/master/0066-plus-one) |
 ## Recursion
 |  |
 | ------- |
