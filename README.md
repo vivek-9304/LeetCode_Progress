@@ -25,4 +25,16 @@ Leetcode connected with git helps to track down my progress and submission and a
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/vivek-9304/LeetCode_Progress/tree/master/0002-add-two-numbers) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/vivek-9304/LeetCode_Progress/tree/master/0005-longest-palindromic-substring) |
+## String
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/vivek-9304/LeetCode_Progress/tree/master/0005-longest-palindromic-substring) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/vivek-9304/LeetCode_Progress/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
