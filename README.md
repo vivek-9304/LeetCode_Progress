@@ -7,6 +7,7 @@ Leetcode connected with git helps to track down my progress and submission and a
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vivek-9304/LeetCode_Progress/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/vivek-9304/LeetCode_Progress/tree/master/0004-median-of-two-sorted-arrays) |
 | [0066-plus-one](https://github.com/vivek-9304/LeetCode_Progress/tree/master/0066-plus-one) |
 ## Hash Table
 |  |
@@ -37,4 +38,12 @@ Leetcode connected with git helps to track down my progress and submission and a
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vivek-9304/LeetCode_Progress/tree/master/0005-longest-palindromic-substring) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/vivek-9304/LeetCode_Progress/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/vivek-9304/LeetCode_Progress/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
