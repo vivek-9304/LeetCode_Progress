@@ -3,9 +3,6 @@ class Solution {
         String pre = "";
         int min = Integer.MAX_VALUE;
         for(int i=0; i<strs.length; i++){
-            if(strs[i].length()==0) return "";
-        }
-        for(int i=0; i<strs.length; i++){
             if(strs[i].length()<min) min = strs[i].length();
         }
         if(strs.length==1 && strs[0].length()==1) return strs[0];
