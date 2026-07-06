@@ -9,6 +9,7 @@ Leetcode connected with git helps to track down my progress and submission and a
 | [0001-two-sum](https://github.com/vivek-9304/LeetCode_Progress/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/vivek-9304/LeetCode_Progress/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/vivek-9304/LeetCode_Progress/tree/master/0014-longest-common-prefix) |
+| [0027-remove-element](https://github.com/vivek-9304/LeetCode_Progress/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/vivek-9304/LeetCode_Progress/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/vivek-9304/LeetCode_Progress/tree/master/0066-plus-one) |
 ## Hash Table
@@ -34,6 +35,7 @@ Leetcode connected with git helps to track down my progress and submission and a
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vivek-9304/LeetCode_Progress/tree/master/0005-longest-palindromic-substring) |
+| [0027-remove-element](https://github.com/vivek-9304/LeetCode_Progress/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vivek-9304/LeetCode_Progress/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/vivek-9304/LeetCode_Progress/tree/master/0042-trapping-rain-water) |
 ## String
