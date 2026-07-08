@@ -12,6 +12,7 @@ Leetcode connected with git helps to track down my progress and submission and a
 | [0027-remove-element](https://github.com/vivek-9304/LeetCode_Progress/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/vivek-9304/LeetCode_Progress/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/vivek-9304/LeetCode_Progress/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/vivek-9304/LeetCode_Progress/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/vivek-9304/LeetCode_Progress/tree/master/0136-single-number) |
 ## Hash Table
 |  |
@@ -80,5 +81,10 @@ Leetcode connected with git helps to track down my progress and submission and a
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/vivek-9304/LeetCode_Progress/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/vivek-9304/LeetCode_Progress/tree/master/0136-single-number) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/vivek-9304/LeetCode_Progress/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
