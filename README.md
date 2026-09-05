@@ -15,6 +15,7 @@ Leetcode connected with git helps to track down my progress and submission and a
 | [0066-plus-one](https://github.com/vivek-9304/LeetCode_Progress/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/vivek-9304/LeetCode_Progress/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/vivek-9304/LeetCode_Progress/tree/master/0136-single-number) |
+| [0164-maximum-gap](https://github.com/vivek-9304/LeetCode_Progress/tree/master/0164-maximum-gap) |
 ## Hash Table
 |  |
 | ------- |
@@ -89,4 +90,20 @@ Leetcode connected with git helps to track down my progress and submission and a
 |  |
 | ------- |
 | [0078-subsets](https://github.com/vivek-9304/LeetCode_Progress/tree/master/0078-subsets) |
+## Sorting
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/vivek-9304/LeetCode_Progress/tree/master/0164-maximum-gap) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/vivek-9304/LeetCode_Progress/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/vivek-9304/LeetCode_Progress/tree/master/0164-maximum-gap) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/vivek-9304/LeetCode_Progress/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
